@@ -14,5 +14,5 @@ The data in which the "de"'s are counted, the tokens are also displayed, so it i
 
 ## Systems and data used
 - Operating system: MacOS Big Sur 11.2.2 (intel)
-- Programming languages: Python version 3.9.2; shell script, zsh 5.8 (x86_64-apple-darwin20.0) used with the integrated terminal in VS code version 1.54.1
+- Programming languages: Python version 3.9.2; shell script version zsh 5.8 (x86_64-apple-darwin20.0) used with the integrated terminal in VS code version 1.54.1
 - Wikipedia page: Rijksuniversiteit Groningen, Dutch, from 8 march 2021 (so [this version](https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&oldid=57576769))
