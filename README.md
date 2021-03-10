@@ -16,3 +16,12 @@ The data in which the "de"'s are counted, the tokens are also displayed, so it i
 - Operating system: MacOS Big Sur 11.2.2 (intel)
 - Programming languages: Python version 3.9.2; shell script version zsh 5.8 (x86_64-apple-darwin20.0) used with the integrated terminal in VS code version 1.54.1
 - Wikipedia page: Rijksuniversiteit Groningen, Dutch, from 8 march 2021 (so [this version](https://nl.wikipedia.org/w/index.php?title=Rijksuniversiteit_Groningen&oldid=57576769))
+
+## How to count the words for yourself
+if you want to count the number of "de"'s in a current version of the wiki page
+1. run the python script: `python3 get_wiki_page.py` and the output will be in a text file named "wikipedia_text"
+
+if you want to count the number of "de"'s in the version of the wiki page I used
+1. Change the name of the text file from "wikipedia_text" to "used_wikipedia_text" in the shell script
+
+2. Run the shell in the command line `bash find_words_wiki.sh` and the output will be in "final_output"
